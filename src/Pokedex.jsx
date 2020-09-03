@@ -1,7 +1,7 @@
 import React from 'react';
 import {AppBar,Toolbar,Grid,Card,CardContent, CircularProgress,CardMedia,Typography,TextField} from "@material-ui/core";
 import  {makeStyles,fade} from "@material-ui/core/styles";
-import mockData from "./mockData";
+
 import { useState,useEffect } from 'react';
 import SearchIcon from "@material-ui/icons/Search";
 import axios from "axios";

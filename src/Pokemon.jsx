@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Typography, Link, CircularProgress, Button, Card } from "@material-ui/core";
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
 import axios from "axios";
-import blue from '@material-ui/core/colors/blue';
+
 
 
 const Pokemon = (props) => {
